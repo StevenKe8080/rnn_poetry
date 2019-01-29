@@ -9,4 +9,4 @@ tensorflow版本：1.7.0
 再运行predict_poetry.py进行模型预测  
 具体配置在代码中，可以自行修改  
 
-代码说明解释可以看文章：[链接](http://www.stevenke.com/2018/tensorflow-rnn-poetry.html)
+
